@@ -1,0 +1,22 @@
+{
+  "name": "DUWFRI353_WFC2401_GroupA_DuwayneFrieslaar_DJS08",
+  "description": "https://v2.scrimba.com/advanced-react-c02h/~04q",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^10.12.2",
+    "miragejs": "0.1.46",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "4.7.1",
+    "react-router-dom": "6.4.3",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "*"
+  }
+}
